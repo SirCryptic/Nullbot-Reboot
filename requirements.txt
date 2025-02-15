@@ -1,2 +1,13 @@
-discord.py
-ipaddress
+discord.py==2.4.0
+psutil==6.1.1
+cowsay
+requests
+dnspython
+python-whois
+aiohttp
+shodan
+Pillow
+pyheif
+aiofiles
+beautifulsoup4
+googletrans==4.0.0-rc1
