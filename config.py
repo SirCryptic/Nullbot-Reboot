@@ -20,7 +20,7 @@ ALLOWED_DM = False
 
 
 BOT_VERSION = "1.0.2"
-BOT_NAME = "NullBot"e
+BOT_NAME = "NullBot"
 
 OWNER_ID = 891398722842427422  # Replace this with your actual Discord User ID
 DEV_IDS = [802, 1000]  # List of developer IDs
