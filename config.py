@@ -31,7 +31,7 @@ ADMIN_URLS_PATH = "admin_urls.txt"
 USER_AGENTS_PATH = "user_agents.txt"
 
 # HIBP (Have I Been Pwned) API Key (store it securely)
-HIBP_API_KEY = "fedab3f214214510b2241bf4bb3c4e28"  # Replace with your actual API key
+HIBP_API_KEY = "your_api_key_here"  # Replace with your actual API key
 
 SHODAN_API_KEY = 'your_api_key_here'
 WEATHER_API_KEY = "your_api_key_here"
