@@ -29,6 +29,7 @@ LOG_CHANNEL_ID = 00 # Replace this with your desired channel ID
 
 ADMIN_URLS_PATH = "admin_urls.txt"
 USER_AGENTS_PATH = "user_agents.txt"
+DOWNLOAD_DIR = "temp"
 
 # HIBP (Have I Been Pwned) API Key (store it securely)
 HIBP_API_KEY = "your_api_key_here"  # Replace with your actual API key
